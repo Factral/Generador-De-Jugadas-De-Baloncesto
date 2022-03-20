@@ -10,4 +10,4 @@ el proyecto fue realizado en un notebook, el codigo genera jugadas correctas de 
 
 *notebook*: [generador-de-jugadas-de-baloncesto](Proyecto_Automatas.ipynb)
 
-![poster](poster.jpeg)
+![poster](poster.png)
